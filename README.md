@@ -1,2 +1,2 @@
 # Num_analysis
-python to analysis
+python to numerical analysis
